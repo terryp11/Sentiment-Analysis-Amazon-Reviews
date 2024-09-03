@@ -1,4 +1,4 @@
-# Sentiment Analysis for Amazon Reviews 
+# Sentiment Analysis for Amazon Reviews using TensorFlow
 
 The purpose of this project is to use sentiment analysis on Amazon product reviews to find out if a review is positive or negative with TensorFlow on Google Colab. Some natural language processing techniques used are tokenizing, text vectorization, sequence padding, and Long Short Term Memory (LSTM). The dataset can be found [here](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews).
 
